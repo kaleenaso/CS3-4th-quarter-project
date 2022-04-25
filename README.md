@@ -70,5 +70,5 @@ Set in the PSHS-MC Campus, this page will contain photos of the campus users can
 ``` 
 4. [Identification], Subject: Statistics, **What is refered as the study and manipulation of data? **
 ```HTML 
-    <input type="text" placeholder="Answer">
+    <input type="text" placeholder="Statistics">
 ```
