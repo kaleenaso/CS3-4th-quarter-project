@@ -36,3 +36,39 @@ As this topic tackles the importance of trusting the science as well as watching
 
 ### /game-gallery 
 Set in the PSHS-MC Campus, this page will contain photos of the campus users can explore. However, these photos are for viewing purposes and do not contain clues in the game. 
+
+## Sample Questions 
+
+### _Choice_
+1. You walk up to the second floor and see a man looking out the window, do you: 
+```HTML
+<select>
+  <option>a) Walk up and talk to the man  </option>
+  <option>b) Keep on track and look for the next room </option>
+</select>
+
+``` 
+
+### _Trivia_
+2. [Multiple Choice], Subejct: Chemistry, **C6H12O8 is the chemical formula of what compound?**
+
+```HTML 
+<select>
+  <option> a) table salt</option>
+  <option> b) glucose </option>
+  <option> c) fructose </option>
+  <option> d) sucrose </option>
+</select> 
+```
+3. [True or False], Subject: Math, **Identify if this following statement is True or False: O is an example of a Whole Number**
+
+``` HTML 
+<select> 
+  <option> True </option> 
+  <option> False </option> 
+</select> 
+``` 
+4. [Identification], Subject: Statistics, **What is refered as the study and manipulation of data? **
+```HTML 
+    <input type="text" placeholder="Answer">
+```
