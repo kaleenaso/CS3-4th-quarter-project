@@ -17,7 +17,7 @@ We mainly wanted something sci-fi or post-apocalyptic themed set on the grounds 
 ## Plot Summary 
 
 ## Data Processing 
-
+After finishing the game and completing the form, users will get to see the summary of their journey–the choices they've made and answers to the questions they dind't guess correctly. Player answers will be consolidated and summarized to display the outcome majority of players, and which questions many found difficult. 
 
 ## Planned Pages 
 ### / 
