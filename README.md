@@ -28,25 +28,27 @@ _Disclaimer: Time travel isn't real and the plot of Mission 2022 is a work of fi
 After finishing the game and completing the form, users will get to see the summary of their journey–the choices they've made and answers to the questions they dind't guess correctly. Player answers will be consolidated and summarized to display the outcome majority of players, and which questions many found difficult. 
 
 ## Planned Pages 
-### / 
+### _/_ 
 This is the home page. Here, the user has the option to continue their previous game or start a new one. The user will also have access to the **Learn More** page and the game gallery
 
-### /intro 
+### _/intro_ 
 This is the game's starting page. Here, the user will enter their engineer profile, including one's name, Engineering major (choices: Software, Mechanical, Chemical), and other information. They will also be informed about the game mechanics as well as a short description of what's to come. 
 
-### /game 
+### _/game_ 
 This is the main page where the game occurs. It is where the user will answer questions, make choices, and find the reactivation key around the school. JavaScript will be used to dynamically update the webpage based on the user answers. 
 
-### /results 
+### _/results_ 
 This is the end of the game where the user will be shown their filled out profile and the results of the mission–whether they success or fail the mission from the choices they've made. From their choices, this page will showcase all possible paths one could've made for the different outcomes and outlines the one chosen by the user.
 
 Additionally, this will contain a button that gives users the option to see how much their choices differed from others that have played the game. Said button will reveal a summary of the user's answers and how much of those who played matched their choices. On the case of quiz quiestions, the users are given access to check the percentage of players who got certain questions right or wrong. 
 
-### /learn-more
+### _/learn-more_
 As this topic tackles the importance of trusting the science as well as watching out for global warming, the group has decided to add a page that provides the user with resources they can check out to learn more about an ever growing problem. 
 
-### /game-gallery 
+### _/game-gallery_ 
 Set in the PSHS-MC Campus, this page will contain photos of the campus users can explore. However, these photos are for viewing purposes and do not contain clues in the game. 
+
+Some locations shown in this page will be the Integrated Science Laboratories in the SHB or the Computer Science Faculty Room in the ASTB 
 
 ## Sample Questions 
 
