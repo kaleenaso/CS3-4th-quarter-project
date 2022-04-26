@@ -3,7 +3,7 @@
 Contributors: Kywee Maristela, Nissi Palada, & Kaleena So 
 
 ## Project Decription
-Classified: Project Nikaky is a text-based choose your own adventure game set in 3035 where the unfortunate effects of Global Warming have made the Earth inhabitable and humans have occupied space. However, hope arrives when you discover a deactivated time machine created by 3 scientists, Dr. Juliene Palada PhD., Dr. Chrismyshell Maristela PhD., and Dr. Kaleena So PhD. in 2022 within the grounds of the Philippine Science High School - Main Campus. 
+Classified: Project Nikaky is a text-based choose your own adventure game set in 3035 where the unfortunate effects of Global Warming have made the Earth inhabitable and humans have occupied space. However, hope arrives when you discover a deactivated time machine created by 3 scientists, Juliene Palada, Ph.D., Chrismyshell Maristela, PhD., and Kaleena So, Ph.D. in 2022 within the grounds of the Philippine Science High School - Main Campus. 
 
 This machine will allow you to travel to the past, warning the world before these unfortunate events take place. Thus, the government sends you and other engineers on a mission to get the machine working. Hidden within the school corridors is the reactivation key to the time machine you must uncover before your time runs out due to the limited supply of oxygen. 
 
