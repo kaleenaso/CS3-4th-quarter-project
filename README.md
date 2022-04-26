@@ -1,13 +1,13 @@
-# Project Nikaky: Classified 
+# Classified: Mission 2022 
 ## 4th Quarter CS Project 
 Contributors: Kywee Maristela, Nissi Palada, & Kaleena So 
 
 ## Project Decription
-Classified: Project Nikaky is a text-based choose your own adventure game set in 3035 where the unfortunate effects of Global Warming have made the Earth inhabitable and humans have occupied space. However, hope arrives when you discover a deactivated time machine created by 3 scientists, Juliene Palada, Ph.D., Chrismyshell Maristela, PhD., and Kaleena So, Ph.D. in 2022 within the grounds of the Philippine Science High School - Main Campus. 
+Mission 2022 is a text-based choose your own adventure game set in 3035 where the unfortunate effects of Global Warming have made the Earth inhabitable and humans have occupied space. However, hope arrives when you discover a deactivated time machine created by 3 scientists, Juliene Palada, Ph.D., Chrismyshell Maristela, PhD., and Kaleena So, Ph.D. in 2022 within the grounds of the Philippine Science High School - Main Campus. 
 
-This machine will allow you to travel to the past, warning the world before these unfortunate events take place. Thus, the government sends you and other engineers on a mission to get the machine working. Hidden within the school corridors is the reactivation key to the time machine you must uncover before your time runs out due to the limited supply of oxygen. 
+With the machine, your goal is to travel back to 2022 warning the world before these unfortunate events take place. The government sends you and other engineers on a mission to get the machine working. Hidden within the school corridors is the reactivation key to the time machine you must uncover before your time runs out due to the limited supply of oxygen. 
 
-The reactivation key requires a set of codes hidden within the school which can be obtained by answering some questions. These questions will be about certain STEM topics taught in the school and school trivia. 
+The reactivation key requires a set of codes hidden within the school which can be obtained by answering some questions. These questions will be about certain STEM topics taught in the school and PSHS-MC trivia. 
 
 A dark, abandoned place will be a challenge for you and your team; thus, the right decisions and answers are crucial. Good luck in saving the future, Engr. 
 
