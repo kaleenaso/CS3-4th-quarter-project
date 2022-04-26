@@ -1,4 +1,4 @@
-# **Classified: _Mission 2022_ **
+# **Classified: _Mission 2022_**
 ## 4th Quarter CS Project 
 Contributors: K14 - Kywee Maristela, K17 - Nissi Palada, & K24 - Kaleena So 
 
