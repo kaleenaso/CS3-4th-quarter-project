@@ -15,7 +15,15 @@ A dark, abandoned place will be a challenge for you and your team; thus, the rig
 We mainly wanted something sci-fi or post-apocalyptic themed set on the grounds of PSHS-MC, incorporating our passion and common interest in STEM with a sci-fi setting. We brainstormed for a plot until we arrived at time-traveling, and eventually came to the idea of sending messages calling to help the Earth would be the main objective of the characters. This is applicable in today’s society as warnings from scientists help shape our future. As future women in STEM, we felt that trust in science and data is a relevant topic that would fit well for our project, as well as implement a fun and engaging game centered around time travel. 
 
 ## Plot Summary 
+You are an engineer tasked to go to the inhabitable Earth with your team to activate a time machine and travel back to the year 2022. 
 
+The machine was made in 2022 by 3 scientists hidden within the grounds of your old school: Philippine Science High School - Main Campus. Many have attempted to activate the machine in the past but inevitably failed due to Earth’s harsh conditions; however, clues and codes are hidden around the school by past explorers and even the creators themselves that will lead you to the reactivation key. 
+
+With only 2 hours before you suffocate to death, you and your team split up investigating rooms around the school. This leads you to the school laboratories and you realize each lab holds and different code you must unlock. These must be collected with the machine up and running before the 2-hour timer runs out leaving your team stranded on Earth to your death. 
+
+Abandoned for over a millennium the school grounds pose challenges of its own which require you to make choices. Will you be able to retrieve all codes and make the right decisions to activate the machine successfully setting the course back to 2022 or contribute to the numerous failed missions slowly suffering from Earth’s harsh atmosphere? 
+
+_Disclaimer: Time travel isn't real and the plot of Mission 2022 is a work of fiction._
 ## Data Processing 
 After finishing the game and completing the form, users will get to see the summary of their journey–the choices they've made and answers to the questions they dind't guess correctly. Player answers will be consolidated and summarized to display the outcome majority of players, and which questions many found difficult. 
 
